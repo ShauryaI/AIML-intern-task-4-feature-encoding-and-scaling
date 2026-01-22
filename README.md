@@ -1,5 +1,5 @@
 # AIML-intern-task-4-feature-encoding-and-scaling-tools
-This is all about feature engineering
+This is all about feature engineering basics
 
 ## Dataset ##
 Adult Income Dataset: adult.csv
